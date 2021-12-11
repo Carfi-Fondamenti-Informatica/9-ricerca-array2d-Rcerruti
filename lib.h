@@ -1,1 +1,4 @@
-
+#ifndef ESERCITAZIONE_CERCA_PAROLA_ARRAY_LIB_H
+#define ESERCITAZIONE_CERCA_PAROLA_ARRAY_LIB_H
+int funzione_nome(char [][20], char [], int & );
+#endif //ESERCITAZIONE_CERCA_PAROLA_ARRAY_LIB_H
