@@ -2,7 +2,6 @@
 #include "lib.h"
 using namespace std;
 
-
 int main(){
     char nomi[10][20];
     char nome[20];
@@ -24,5 +23,5 @@ int main(){
     }else{
         cout<< "non presente";
     }
-   return 0;
+    return 0;
 }
