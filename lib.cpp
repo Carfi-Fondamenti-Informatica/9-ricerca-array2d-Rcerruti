@@ -1,3 +1,4 @@
+#include <iostream>
 #include "lib.h"
 bool funzione_nome(char a[10][20], char b[20], int & p) {
     int t=0;
