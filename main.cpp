@@ -14,7 +14,9 @@ int main(){
         nome[i]=0;
     }
     int posizione=0;
-    cin>>nome;
+    for(int i=0; i<20 ;i++){
+        cin>>nome[i];
+    }
     for(int i=0; i<10;i++){
         cin>>nomi[i];
     }
