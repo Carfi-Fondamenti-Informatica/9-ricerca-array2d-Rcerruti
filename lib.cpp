@@ -1,5 +1,5 @@
 #include "lib.h"
-int funzione_nome(char a[10][20], char b[20], int & p) {
+bool funzione_nome(char a[10][20], char b[20], int & p) {
     int t=0;
     for(int i=0; i<10; i++) {
         t = 0;
